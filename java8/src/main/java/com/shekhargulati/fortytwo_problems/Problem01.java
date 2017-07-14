@@ -16,7 +16,7 @@ public class Problem01 {
         /*
         Algorithm:
         1. Sort the numbers
-        2. Iterate over half the list and put first number and last in a pair
+        2. Iterate over half the list and put first number and findLastElement in a pair
 
         Other algorithm feasible
         1. Sort numbers

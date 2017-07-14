@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.NoSuchElementException;
 
 /**
- * (*) Find the last element of a list.
+ * (*) Find the findLastElement element of a list.
  * <p>
  * Check P01Test class for test cases related to this problem.
  */
@@ -13,7 +13,7 @@ public class P01 {
 
     /*
     You could solve this using many different approaches.
-    If you work with List interface then you can find the last element using List size as shown below.
+    If you work with List interface then you can find the findLastElement element using List size as shown below.
      */
     public static <T> T last(List<T> elements) {
         int numberOfElements = elements.size();
